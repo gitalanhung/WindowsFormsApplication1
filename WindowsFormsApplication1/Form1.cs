@@ -17,7 +17,7 @@ namespace WindowsFormsApplication1
             InitializeComponent();
 
 
-            MessageBox.Show("");
+            //MessageBox.Show("");
         }
     }
 }
