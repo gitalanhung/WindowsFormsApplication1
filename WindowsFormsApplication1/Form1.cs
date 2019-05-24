@@ -19,6 +19,9 @@ namespace WindowsFormsApplication1
 
             //MessageBox.Show("");
             //jjjjjjjjjjjjjjjjjjjj
+
+
+            fff
         }
 
         List<int> dic = new List<int>();
